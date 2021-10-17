@@ -60,4 +60,5 @@ CREATE TABLE tabela_2 (
 
 
 ### Lider adicionado
-![lider_success](https://user-images.githubusercontent.com/64991182/137638964-07b349be-9d5c-4628-a9c2-3bdd641946d5.jpeg)
+![lider_success](https://user-images.githubusercontent.com/64991182/137642287-e27f0b51-9fd3-4d08-8960-8b586c8af835.jpeg)
+
