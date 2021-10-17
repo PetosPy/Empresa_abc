@@ -61,11 +61,11 @@ CREATE TABLE lider (
 ```
 
 ## Screenshots
-
 ### Adding a worker 
-
+![mick](https://user-images.githubusercontent.com/64991182/137638660-fa96a0aa-cf0e-48fe-a98b-d6c893f135bf.jpeg)
 
 ### Worker added
+![success](https://user-images.githubusercontent.com/64991182/137638665-b8e96fe1-671f-4bd6-bdae-eeafe4e3706b.jpeg)
 
 ### Adding a Lider
 
