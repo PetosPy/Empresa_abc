@@ -2,7 +2,7 @@
 {% block body %}
  <div class="row"><h3>Funcionarios</h3></div>
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-3">
       {% with messages = get_flashed_messages()  %}
       {% if messages %}
       {% for message in messages %}
@@ -42,9 +42,9 @@
             <input type="text" class="form-control" name="status_do_colaborador" placeholder="status_do_colaborador" >
           </div>
 
-          <input class="btn btn-primary btn-md" type="submit" name="funcionario" value="funcionario" />
+          <input class="btn btn-primary btn-sm" type="submit" name="funcionario" value="funcionario" />
 
-          <input class="btn btn-primary btn-md" style="margin-left: 100px" type="submit" name="liderança" value="liderança" />
+          <input class="btn btn-primary btn-sm" style="margin-left: 75px" type="submit" name="liderança" value="lider" />
           
         </form>
       </div>
