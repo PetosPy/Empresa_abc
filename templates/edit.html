@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block body %}
+  <div class="row">
+
+    <div class="col-md-4 offset-md-4">
+      <h3 style="text-align:center">Editar os dados do funcionario</h3>
+      <div class="card card-body">
+        <form action="/update/{{funcionario.id}}" method="POST">
+
+          <div class="form-group">
+            <input type="text" name="nome" value="{{funcionario.nome}}" class="form-control">
+          </div>
+          <div class="form-group">
+            <input type="text" name="sobre_nome" value="{{funcionario.sobre_nome}}" class="form-control">
+          </div>
+          <div class="form-group">
+            <input type="text" name="sexo" value="{{funcionario.sexo}}" class="form-control">
+          </div>
+          <div class="form-group">
+            <input type="text" name="senha" value="{{funcionario.senha}}" class="form-control">
+          </div>
+          <div class="form-group">
+            <input type="text" name="cargo" value="{{funcionario.cargo}}" class="form-control">
+          </div>
+          <div class="form-group">
+            <input type="text" name="codigo_do_cargo" value="{{funcionario.codigo_do_cargo}}" class="form-control">
+          </div>
+          <div class="form-group">
+            <input type="text" name="status_do_colaborador" value="{{funcionario.status_do_colaborador}}" class="form-control">
+          </div>
+          <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-block">
+              Atualizar
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+{% endblock %}
