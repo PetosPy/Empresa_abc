@@ -1,8 +1,8 @@
 # Empresa_abc
 
-### Este é um aplicativo de processamento de trabalho desenvolvido com Flask, que registra, edita e exclui trabalhadores de um banco de dados Postgresql.
-![empresa_abc](https://user-images.githubusercontent.com/64991182/137638345-f45098d9-9c78-42de-8e72-2afa85e60be4.jpeg)
+### Este é um aplicativo de processamento de funcionários desenvolvido com Flask, que registra, edita e exclui funcionários de um banco de dados Postgresql de empressa_abc.
 
+![empresa_abc](https://user-images.githubusercontent.com/64991182/137638345-f45098d9-9c78-42de-8e72-2afa85e60be4.jpeg)
 
 
 ## Dependências:
