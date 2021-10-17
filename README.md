@@ -1,6 +1,5 @@
 # Empresa_abc
 
-# Empresa_abc
 ### Este é um aplicativo de processamento de trabalho desenvolvido com Flask, que registra, edita e exclui trabalhadores de um banco de dados Postgresql.
 
 
