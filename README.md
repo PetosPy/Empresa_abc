@@ -69,8 +69,10 @@ CREATE TABLE tabela_2 (
 ![func_editado](https://user-images.githubusercontent.com/64991182/137642598-f34ee8dd-33a2-4c4d-800e-f4601419987b.jpeg)
 
 ### Excluir funcionario
+![delete_func](https://user-images.githubusercontent.com/64991182/137642846-906ab10c-c21e-4824-8e4b-bdd18de55ac6.jpeg)
 
 ### Funcionario excluido
+![deletado](https://user-images.githubusercontent.com/64991182/137642848-5dc2eee4-f6e3-4bbe-b0f6-e75353dd4de7.jpeg)
 
 
 
