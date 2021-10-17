@@ -63,9 +63,11 @@ CREATE TABLE tabela_2 (
 ![lider_success](https://user-images.githubusercontent.com/64991182/137642287-e27f0b51-9fd3-4d08-8960-8b586c8af835.jpeg)
 
 ### Editando a senha do funcionario
-
+![editar_func](https://user-images.githubusercontent.com/64991182/137642605-130b20ff-9959-46d2-a229-6186ef4c3231.jpeg)
 
 ### senha do funcionario editado
+![func_editado](https://user-images.githubusercontent.com/64991182/137642598-f34ee8dd-33a2-4c4d-800e-f4601419987b.jpeg)
+
 
 
 
