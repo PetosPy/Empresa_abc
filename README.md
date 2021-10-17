@@ -68,5 +68,8 @@ CREATE TABLE lider (
 ![success](https://user-images.githubusercontent.com/64991182/137638665-b8e96fe1-671f-4bd6-bdae-eeafe4e3706b.jpeg)
 
 ### Adding a Lider
+![lider](https://user-images.githubusercontent.com/64991182/137638959-776c8557-420f-4f5a-8e2c-b04f9f0dc15a.jpeg)
+
 
 ### Lider added
+![lider_success](https://user-images.githubusercontent.com/64991182/137638964-07b349be-9d5c-4628-a9c2-3bdd641946d5.jpeg)
