@@ -68,6 +68,9 @@ CREATE TABLE tabela_2 (
 ### senha do funcionario editado
 ![func_editado](https://user-images.githubusercontent.com/64991182/137642598-f34ee8dd-33a2-4c4d-800e-f4601419987b.jpeg)
 
+### Excluir funcionario
+
+### Funcionario excluido
 
 
 
