@@ -59,3 +59,14 @@ CREATE TABLE lider (
    matricula_do_lider  timestamp 
 ); 
 ```
+
+## Screenshots
+
+### Adding a worker 
+
+
+### Worker added
+
+### Adding a Lider
+
+### Lider added
