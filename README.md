@@ -61,15 +61,15 @@ CREATE TABLE lider (
 ```
 
 ## Screenshots
-### Adding a worker 
+### Adicionando um funcionario
 ![mick](https://user-images.githubusercontent.com/64991182/137638660-fa96a0aa-cf0e-48fe-a98b-d6c893f135bf.jpeg)
 
-### Worker added
+### funcionario adicionando
 ![success](https://user-images.githubusercontent.com/64991182/137638665-b8e96fe1-671f-4bd6-bdae-eeafe4e3706b.jpeg)
 
-### Adding a Lider
+### Adicionando um Lider
 ![lider](https://user-images.githubusercontent.com/64991182/137638959-776c8557-420f-4f5a-8e2c-b04f9f0dc15a.jpeg)
 
 
-### Lider added
+### Lider adicionado
 ![lider_success](https://user-images.githubusercontent.com/64991182/137638964-07b349be-9d5c-4628-a9c2-3bdd641946d5.jpeg)
