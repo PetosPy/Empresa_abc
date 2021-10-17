@@ -75,6 +75,8 @@ CREATE TABLE tabela_2 (
 ![deletado](https://user-images.githubusercontent.com/64991182/137642848-5dc2eee4-f6e3-4bbe-b0f6-e75353dd4de7.jpeg)
 
 ## Database
+![db_info](https://user-images.githubusercontent.com/64991182/137643983-1c886926-29b6-46aa-8e96-f81828a4d257.jpeg)
+
 
 
 
