@@ -46,18 +46,6 @@ CREATE TABLE tabela_2 (
 	CONSTRAINT fk_id_funcionario FOREIGN KEY (id_funcionario) REFERENCES funcionarios (id) ON DELETE CASCADE
 ); 
 
-CREATE TABLE lider (
-   id_lider serial,
-   nome               VARCHAR(100)     NOT NULL,
-   sobre_nome         VARCHAR(100)     NOT NULL,
-   sexo      			VARCHAR(9) 		 NOT NULL, 
-   cargo             VARCHAR(100)     NOT NULL,
-   codigo_do_cargo      VARCHAR(100)     NOT NULL,
-   senha   			VARCHAR(100)   NOT NULL,
-   salario      		INT          NOT NULL,
-   status_do_colaborador  VARCHAR(100),
-   matricula_do_lider  timestamp 
-); 
 ```
 
 ## Screenshots
