@@ -103,20 +103,21 @@ def add_employee():
  
 @app.route('/edit/<id>', methods = ['POST', 'GET'])
 def get_employee(id):
+    # Editar os dados do funcionario
 
     cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
     sql = "SELECT funcionarios.id, funcionarios.nome, funcionarios.sobre_nome, funcionarios.sexo, tabela_2.senha, tabela_2.cargo, tabela_2.codigo_do_cargo, tabela_2.status_do_colaborador FROM funcionarios INNER JOIN tabela_2 ON funcionarios.id = tabela_2.id_funcionario"
     cur.execute(f'{sql} WHERE id = {("%s")}', (id))
     data = cur.fetchall()
     cur.close()
-    print(data[0])
+    # print(data[0])
 
     return render_template('edit.html', funcionario = data[0])
  
 
 @app.route('/update/<id>', methods=['POST'])
 def update_employee(id):
-    # Atualizar os dados do funcionario
+    # Dados atualizados do funcionario
 
     if request.method == 'POST':
         nome = request.form['nome']
@@ -160,7 +161,14 @@ def delete_employee(id):
     conn.commit()
     flash('Funcionário removido com sucesso')
     return redirect(url_for('Index'))
- 
+
+
+@app.route('/about')
+def about():
+
+    return render_template("about.html")
+
+
 if __name__ == "__main__":
     app.run(debug=True)
 

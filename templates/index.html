@@ -1,6 +1,6 @@
 {% extends "layout.html" %}
 {% block body %}
- <div class="row"><h3>Funcionarios</h3></div>
+ <div class="row"><h3>Registro de funcionário</h3></div>
   <div class="row">
     <div class="col-md-3">
       {% with messages = get_flashed_messages()  %}
@@ -88,6 +88,9 @@
           {% endfor %}
         </tbody>
       </table>
+      <br>
+      <br>
+      <a class="btn btn-warning" href="{{url_for('about')}}">About</a>
     </div>
   </div>
 </div>
