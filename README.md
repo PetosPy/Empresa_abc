@@ -2,7 +2,9 @@
 
 ### Este é um aplicativo de processamento de dados dos funcionários desenvolvido com Python e Flask, que registra, edita e exclui funcionários de um banco de dados Postgresql de empressa_abc.
 
-![empresa_abc](https://user-images.githubusercontent.com/64991182/137638345-f45098d9-9c78-42de-8e72-2afa85e60be4.jpeg)
+
+![logo](https://user-images.githubusercontent.com/64991182/138198087-361dced7-cc6b-46f5-b864-b384fde7d4ac.jpeg)
+
 
 
 ## Dependências:
@@ -63,7 +65,7 @@ CREATE TABLE tabela_2 (
 ![lider_add](https://user-images.githubusercontent.com/64991182/138196722-8aa9e807-f1d3-4285-9f3d-3837c1ecdb45.jpeg)
 
 ### Editando a senha do funcionario
-![editar_func](https://user-images.githubusercontent.com/64991182/137642605-130b20ff-9959-46d2-a229-6186ef4c3231.jpeg)
+![edit_usu](https://user-images.githubusercontent.com/64991182/138198202-030afb5d-5486-4fb3-8f66-7ee9b92139f6.jpeg)
 
 ### senha do funcionario editado
 ![func_editado](https://user-images.githubusercontent.com/64991182/137642598-f34ee8dd-33a2-4c4d-800e-f4601419987b.jpeg)
