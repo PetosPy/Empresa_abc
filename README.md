@@ -50,17 +50,17 @@ CREATE TABLE tabela_2 (
 
 ## Screenshots
 ### Adicionando um funcionario
-![mick](https://user-images.githubusercontent.com/64991182/137638660-fa96a0aa-cf0e-48fe-a98b-d6c893f135bf.jpeg)
+![func_add](https://user-images.githubusercontent.com/64991182/138196613-fd7369cf-c840-4ae5-9618-70704f560f64.jpeg)
 
 ### funcionario adicionando
-![success](https://user-images.githubusercontent.com/64991182/137638665-b8e96fe1-671f-4bd6-bdae-eeafe4e3706b.jpeg)
+![Look](https://user-images.githubusercontent.com/64991182/138196486-635e1d3e-2a26-4881-8c14-6b76f46c7e8f.jpeg)
 
 ### Adicionando um Lider
 ![lider](https://user-images.githubusercontent.com/64991182/137638959-776c8557-420f-4f5a-8e2c-b04f9f0dc15a.jpeg)
 
 
 ### Lider adicionado
-![lider_success](https://user-images.githubusercontent.com/64991182/137642287-e27f0b51-9fd3-4d08-8960-8b586c8af835.jpeg)
+![lider_add](https://user-images.githubusercontent.com/64991182/138196722-8aa9e807-f1d3-4285-9f3d-3837c1ecdb45.jpeg)
 
 ### Editando a senha do funcionario
 ![editar_func](https://user-images.githubusercontent.com/64991182/137642605-130b20ff-9959-46d2-a229-6186ef4c3231.jpeg)
