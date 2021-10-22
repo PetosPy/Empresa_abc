@@ -9,6 +9,12 @@
 }
 
 .body_tag {
-	background-color: #F7DAD9;
+	background-image: url('./images/joshua-sortino-228788-unsplash.jpg');
+	background-size: 1850px 1050px;
+  	background-repeat: no-repeat;
 
+}
+
+.t-body {
+	color: #C56824;
 }
